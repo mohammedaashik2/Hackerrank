@@ -10,7 +10,7 @@ public class SolvemeFirst {
 	         System.out.println("Enter the b value:");
 	        int b=s.nextInt();         
 	        int result = sum(a,b);
-	        System.out.println(result);
+	        System.out.println("The sum of the num is "+result);
 	        
 	        
 	    }
@@ -21,4 +21,11 @@ public class SolvemeFirst {
 	    }
 	}
 
+//Sample Input
+//
+//a = 2
+//b = 3
+//Sample Output
+//
+//5
 
